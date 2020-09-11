@@ -10,7 +10,5 @@ cd MintSoftwareRecruitment &&\
 make run    
 ```
 
-### Not all tasks are done, please check my other repositories to get better view on my skills
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
