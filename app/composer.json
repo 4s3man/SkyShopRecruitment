@@ -1,0 +1,23 @@
+{
+    "name": "kuba/sky-shop-tasks",
+    "description": "Recruitment tasks for skyshop",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.3"
+    },
+    "autoload": {
+        "psr-4": {"Kuba\\": "tasks/"}
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kuba\\Tests\\": "tests/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakub Kułaga",
+            "email": "kuba.kulaga.sv7@gmail.com"
+        }
+    ]
+}
